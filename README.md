@@ -25,7 +25,7 @@
 
 <hr/>
 
-<h4 align="center">Links:</h4>
+<h4 align="center">Links: </h4>
 
 <p align="center">
 
